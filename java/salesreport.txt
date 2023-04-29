@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+
+
+Moonpie | 1 | 0
+Mountain Melter | 0 | 1
+TOTAL SALES:  $6.50
+U-Chews | 1 | 0
+Mountain Melter | 1 | 0
+Wonka Bar | 1 | 0
+TOTAL SALES:  $0.00
+U-Chews | 1 | 0
+U-Chews | 1 | 0
+Snykkers | 1 | 0
+Ginger Ayle | 1 | 0
+U-Chews | 1 | 0
+TOTAL SALES:  $0.00
+U-Chews | 1 | 0
+Chiclets | 0 | 1
+Snykkers | 1 | 0
+Chippos | 0 | 1
+Singlemint Gum | 1 | 0
+Preengles | 0 | 1
+TOTAL SALES:  $4.70
+Popcorn | 1 | 0
+TOTAL SALES:  $6.45
+=======
+Singlemint Gum | 1 | 0
+Singlemint Gum | 0 | 1
+Singlemint Gum | 1 | 0
+Singlemint Gum | 0 | 1
+Singlemint Gum | 1 | 0
+Singlemint Gum | 0 | 1
+TOTAL SALES:  $14.10
+>>>>>>> Sean
