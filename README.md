@@ -49,9 +49,9 @@ To use the Vending Machine program, follow these steps:
    - Make change from your balance.
    - Make a purchase, enter the item code (e.g., A1, B2) and press enter.
 
-4. If you want to access the secret admin menu, enter the admin password when prompted.
+4. If you want to access the secret admin menu, enter 's' on the main menu.
 
-5. Try trigger the easter egg.
+5. Try trigger the easter egg, hint it might have to do with (k)icking the machine ;).
 
 ## Features
 
