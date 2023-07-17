@@ -8,8 +8,6 @@
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -65,20 +63,6 @@ To use the Vending Machine program, follow these steps:
 ## Technologies Used
 
 - Java: Programming language used to build the Vending Machine program.
-
-## Contributing
-
-Contributions to this project are welcome. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request detailing your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
